@@ -444,7 +444,7 @@ section .title::after{
 }
 /* contact section styling */
 .contact .title::after{
-    content: "Veja aqui";
+    content: "Veja como";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);

@@ -26,7 +26,7 @@ $(document).ready(function(){
     });
     // animação de texto escrevendo
     var typed = new Typed(".typing", {
-        strings: ["Trabalhistas", "Criminais", "Cível"],
+        strings: ["Trabalhista", "Criminal", "Cível"],
         typeSpeed: 200,
         backSpeed: 60,
         loop: true
